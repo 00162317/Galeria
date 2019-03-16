@@ -10,19 +10,19 @@
         android:layout_gravity="center"
         android:id="@+id/foto1"/>
     <ImageView
-        android:src="@drawable/dulceCuatro"
+        android:src="@drawable/dulcecuatro"
         android:layout_gravity="center"
         android:id="@+id/foto2"/>
     <ImageView
-        android:src="@drawable/dulceTres"
+        android:src="@drawable/dulcetres"
         android:layout_gravity="center"
         android:id="@+id/foto3"/>
     <ImageView
-        android:src="@drawable/dulceDos"
+        android:src="@drawable/dulcedos"
         android:layout_gravity="center"
         android:id="@+id/foto4"/>
     <ImageView
-        android:src="@drawable/dulceTres"
+        android:src="@drawable/dulcetres"
         android:layout_gravity="center"
         android:id="@+id/foto5"/>
     <ImageView
@@ -34,19 +34,19 @@
         android:layout_gravity="center"
         android:id="@+id/foto7"/>
     <ImageView
-        android:src="@drawable/dulceDos"
+        android:src="@drawable/dulcedos"
         android:layout_gravity="center"
         android:id="@+id/foto8"/>
     <ImageView
-        android:src="@drawable/dulceCuatro"
+        android:src="@drawable/dulcecuatro"
         android:layout_gravity="center"
         android:id="@+id/foto9"/>
     <ImageView
-        android:src="@drawable/dulceCuatro"
+        android:src="@drawable/dulcecuatro"
         android:layout_gravity="center"
         android:id="@+id/foto10"/>
     <ImageView
-        android:src="@drawable/dulceTres"
+        android:src="@drawable/dulcetres"
         android:layout_gravity="center"
         android:id="@+id/foto11"/>
     <ImageView

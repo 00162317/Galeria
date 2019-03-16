@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         lista.add(R.drawable.dulce);
-        lista.add(R.drawable.dulceDos);
-        lista.add(R.drawable.dulceTres);
-        lista.add(R.drawable.dulceCuatro);
+        lista.add(R.drawable.dulcedos);
+        lista.add(R.drawable.dulcetres);
+        lista.add(R.drawable.dulcecuatro);
 
         ImageView pic1 = findViewById(R.id.foto1);
         ImageView pic2 = findViewById(R.id.foto2);
@@ -54,6 +54,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
         ImageView foton = findViewById(v.getId());
         foton.setImageResource(lista.get(numeroRandom()));
-
     }
 }
